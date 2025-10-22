@@ -1,0 +1,5 @@
+{
+  "name": "Structsafe",
+  "description": "An AI-powered web application for structural safety analysis that analyzes images of building structures to detect and highlight cracks, inspired by a dark, minimalist, Pinterest-style interface.",
+  "requestFramePermissions": []
+}
